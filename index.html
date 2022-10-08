@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <link
+      rel="shortcut icon"
+      href="./assets/matematicas.png"
+      type="image/x-icon"
+    />
+    <title>Calculadora de Média</title>
+  </head>
+  <body>
+    <main class="container">
+      <div class="content">
+        <header>
+          <h1 class="title">Calcule sua média</h1>
+          <span class="btns">
+            <button id="adicionar-nota" class="btn">Adicionar nota</button>
+            <button id="remover-nota" class="btn" onclick="removerNota()">
+              Remover nota
+            </button>
+          </span>
+        </header>
+
+        <div class="notas">
+          <ul class="lista-notas">
+            <li>
+              <input
+                type="number"
+                class="input"
+                placeholder="Nota 1"
+                required
+              />
+            </li>
+            <li>
+              <input
+                type="number"
+                class="input"
+                placeholder="Nota 2"
+                required
+              />
+            </li>
+          </ul>
+          <button id="calcular-nota" class="btn">Calcular média</button>
+        </div>
+        <section class="area-resultado">
+          <p>Sua média é:</p>
+          <h2 id="resultado"></h2>
+        </section>
+      </div>
+    </main>
+    <script
+      src="https://code.jquery.com/jquery-3.6.1.js"
+      integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI="
+      crossorigin="anonymous"
+    ></script>
+    <script src="./js/script.js"></script>
+  </body>
+</html>
