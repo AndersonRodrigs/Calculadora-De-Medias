@@ -1,8 +1,8 @@
 # Calculadora de médias
-![image](https://user-images.githubusercontent.com/105132452/190491178-7044df03-3fb9-4acc-8181-35cd81fd995a.png)
+![image](https://user-images.githubusercontent.com/105132452/194731231-999bc0e1-f548-42db-913d-6785f5d70298.png)
 ## Sobre o projeto:
 
-Calculadora de médias simples onde o uruario pode calcular quantas notas preferir. Podendo tambem adicionar e remover as notas. 
+Calculadora de médias simples onde o usuário pode calcular quantas notas preferir. Podendo tambem adicionar e remover as notas. 
 
 [🔗 Clique aqui para acessar](https://andersonrodrigs.github.io/Calculadora-De-Medias/)
 
