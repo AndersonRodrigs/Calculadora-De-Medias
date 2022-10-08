@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/105132452/190491178-7044df03-3fb9-4acc-8181-35cd81fd995a.png)
 ## Sobre o projeto:
 
-Calculadora de médias simples onde você pode calcular quantas notas o usuario preferir. Podendo adicionar e remover as notas. 
+Calculadora de médias simples onde o uruario pode calcular quantas notas preferir. Podendo tambem adicionar e remover as notas. 
 
 [🔗 Clique aqui para acessar](https://AndersonRodrigs.github.io/Calculadora-Gasolina-Alcool/)
 
