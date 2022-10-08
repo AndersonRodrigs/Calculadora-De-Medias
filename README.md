@@ -4,7 +4,7 @@
 
 Calculadora de médias simples onde o uruario pode calcular quantas notas preferir. Podendo tambem adicionar e remover as notas. 
 
-[🔗 Clique aqui para acessar](https://AndersonRodrigs.github.io/Calculadora-Gasolina-Alcool/)
+[🔗 Clique aqui para acessar](https://andersonrodrigs.github.io/Calculadora-De-Medias/)
 
 ## 🛠 Tecnologias utilizadas:
 
