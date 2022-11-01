@@ -1,5 +1,5 @@
 # Calculadora de médias
-![image](https://user-images.githubusercontent.com/105132452/194731231-999bc0e1-f548-42db-913d-6785f5d70298.png)
+![image](https://user-images.githubusercontent.com/105132452/199358123-1bb7934c-4092-44fb-a10b-548046963695.png)
 ## Sobre o projeto:
 
 Calculadora de médias simples onde o usuário pode calcular quantas notas preferir. Podendo tambem adicionar e remover as notas. 
